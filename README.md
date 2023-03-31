@@ -8,8 +8,28 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Questions:
 
-#### Q1. An array that generates random numbers will print the number of numbers whose last elements are zero.
-#### Q2. Multiplication table.
+#### Q01. (RandomNumber) - An array that generates random numbers will print the number of numbers whose last elements are zero.
+#### Q02. (Multiplication) - Multiplication table.
+#### Q03. (HighOrLow) - It takes the number n from the input and returns the word high if the number n is equal to or greater than 1000, and returns the word low if it is less than 1000.
+#### Q04. (EvenNumbers) - Print even numbers between n and 2n
+#### Q05. (DigitsNumbers) - Write a method that takes the number n from the input and returns the number of its digits. For example, it returns "5" for the number "34287".
+#### Q06. (SumDigits) - Write a method that takes the number n from the input and returns the sum of its digits. For example, it returns "24" for the number "34287".
+#### Q07. (ReverseDigits) - Write a method that takes the number n from the input and returns its inverse. For example, if " n=356" , the output value will be "653". (Note that the question does not ask you to print the number in reverse, but you should calculate the numerical value of the reversed number.
+#### Q08. (CompleteNumber) - Write a method that takes the number n from the input and checks if that number is complete or not and returns a Boolean output.
+#### Q09. (PrimeNumber) - Write a method that takes the number n from the input and checks if it is prime or not and returns a Boolean output.
+#### Q10. (RemainderDividedNumbers) - Write a program (in the main method) that calculates and prints the sum of all numbers between 1 and 1000 whose remainder when divided by 3 times 1 using a while loop.
+#### Q11. (AbsoluteValue) - Write a method that takes the number n from the input and returns the absolute value of n.
+#### Q11. (PhotosNumbers -> PictureNumbers01) - Write a method that takes the number n from the input and prints the result according to the figure below (it does not need to be output), for example, if n is equal to 4, print it.
+![Screen Shot 1402-01-11 at 22.47.17.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fkw%2F2n9w2lfx3qz6yc38s5q5ft9h0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_prdv4q%2FScreen%20Shot%201402-01-11%20at%2022.47.17.png )
+
+#### Q11. (PhotosNumbers -> PictureNumbers02) - Write a method that takes the number n from the input and prints the result according to the figure below (it does not need to be output), for example, if n is equal to 4, print it.
+![Screen Shot 1402-01-11 at 22.57.13.png](..%2F..%2FDesktop%2FScreen%20Shot%201402-01-11%20at%2022.57.13.png)
+
+#### Q11. (PhotosNumbers -> PictureOneAndStar) - Write a method that takes the number n from the input and prints the result according to the figure below (it does not need to be output), for example, if n is equal to 4, print it.
+![Screen Shot 1402-01-11 at 22.58.41.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fkw%2F2n9w2lfx3qz6yc38s5q5ft9h0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_IFBHjR%2FScreen%20Shot%201402-01-11%20at%2022.58.41.png)
+
+#### Q11. (Rectangle) - Write a method that takes the length and width of a rectangle from the input and returns the perimeter and area of the rectangle.
+
 
 
 ## Answerer place:
@@ -20,3 +40,16 @@ These instructions will get you a copy of the project up and running on your loc
 
 * <b> Q2:  main method </b>  Because we didn't need special calculations and just wanted to display a multiplication table, we used the main method.
   <b> The first loop </b> calculates the multiplication table and <b> The second loop </b> is to create an empty line so that the multiplication table can be displayed more beautifully.
+
+* <b> Q3:  main method </b>  Because we didn't need special calculations and just wanted to display a multiplication table, we used the main method.
+  <b> The first loop </b> calculates the multiplication table and <b> The second loop </b> is to create an empty line so that the multiplication table can be displayed more beautifully.
+
+
+## Site Refrence:
+* 1. #### https://www.tutorialspoint.com/ 
+* 2. #### https://www.tutorialspoint.com/
+* 3. #### https://www.jenkov.com/
+* 4. #### https://www.javadevjournal.com/
+* 5. #### https://mkyong.com/  ( For the upper class)
+* 6. #### https://www.javatpoint.com/
+* 7. #### https://www.geeksforgeeks.org/
