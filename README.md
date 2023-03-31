@@ -20,13 +20,15 @@ These instructions will get you a copy of the project up and running on your loc
 #### Q10. (RemainderDividedNumbers) - Write a program (in the main method) that calculates and prints the sum of all numbers between 1 and 1000 whose remainder when divided by 3 times 1 using a while loop.
 #### Q11. (AbsoluteValue) - Write a method that takes the number n from the input and returns the absolute value of n.
 #### Q11. (PhotosNumbers -> PictureNumbers01) - Write a method that takes the number n from the input and prints the result according to the figure below (it does not need to be output), for example, if n is equal to 4, print it.
-![Screen Shot 1402-01-11 at 22.47.17.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fkw%2F2n9w2lfx3qz6yc38s5q5ft9h0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_prdv4q%2FScreen%20Shot%201402-01-11%20at%2022.47.17.png )
+
+<img width="115" alt="Screen Shot 1402-01-11 at 23 05 53" src="https://user-images.githubusercontent.com/2927481/229219489-75cd5c06-7546-4686-9b89-d256612b53d9.png">
 
 #### Q11. (PhotosNumbers -> PictureNumbers02) - Write a method that takes the number n from the input and prints the result according to the figure below (it does not need to be output), for example, if n is equal to 4, print it.
-![Screen Shot 1402-01-11 at 22.57.13.png](..%2F..%2FDesktop%2FScreen%20Shot%201402-01-11%20at%2022.57.13.png)
+<img width="145" alt="Screen Shot 1402-01-11 at 23 06 38" src="https://user-images.githubusercontent.com/2927481/229219613-2b8f7c9c-576a-4149-a5e8-74e1572e8d75.png">
+
 
 #### Q11. (PhotosNumbers -> PictureOneAndStar) - Write a method that takes the number n from the input and prints the result according to the figure below (it does not need to be output), for example, if n is equal to 4, print it.
-![Screen Shot 1402-01-11 at 22.58.41.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fkw%2F2n9w2lfx3qz6yc38s5q5ft9h0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_IFBHjR%2FScreen%20Shot%201402-01-11%20at%2022.58.41.png)
+<img width="149" alt="Screen Shot 1402-01-11 at 23 06 59" src="https://user-images.githubusercontent.com/2927481/229219685-a03d83bf-4c0d-4e88-8c01-1340243c3c47.png">
 
 #### Q11. (Rectangle) - Write a method that takes the length and width of a rectangle from the input and returns the perimeter and area of the rectangle.
 
